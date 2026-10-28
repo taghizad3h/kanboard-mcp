@@ -184,10 +184,7 @@ cython_debug/
 .env.local
 .env.production
 
-# Test files
-test_*.py
-*_test.py
-tests/
+# Keep regression tests versioned.
 
 # Log files
 *.log
